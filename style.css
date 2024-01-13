@@ -24,6 +24,7 @@ section{
     justify-content: center;
     height:100vh;
     background-color: #ccd5ae;
+    padding-top:.5em;
 }
 button{
     width:250px;
