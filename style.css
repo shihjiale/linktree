@@ -1,0 +1,49 @@
+main{
+    text-align:center
+}
+h1{
+    font-family: monospace;
+}
+
+a{
+    font-family: monospace;
+    text-decoration: none;
+    font-size:large;
+    color:beige;
+}
+
+button .link:hover{ 
+    color:blanchedalmond;
+}
+
+
+section{
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100vh;
+    background-color: #ccd5ae;
+}
+button{
+    width:250px;
+    background:none;
+    color:#e9edc9;
+    border:2px solid;
+    padding:1em 2em;
+    margin:.3em;
+    font-size:1em;
+}
+
+button:hover{
+    border-color: #fefae0;
+    color:white;
+    box-shadow: 0 0.5em 0.5em -0.4em #faedcd;
+    transform: translateY(-0.25em);
+    
+
+}
+
+section li{
+    text-decoration: none;
+}
