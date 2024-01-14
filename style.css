@@ -1,5 +1,8 @@
 main{
-    text-align:center
+    text-align: center;
+    background-color: #faedcd;
+    padding:none;
+    
 }
 h1{
     font-family: monospace;
