@@ -25,6 +25,9 @@ section{
     height:100vh;
     background-color: #ccd5ae;
     padding-top:.5em;
+    padding-bottom:0;
+    padding-right:0;
+    padding-left:0;
 }
 button{
     width:250px;
