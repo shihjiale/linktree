@@ -1,8 +1,14 @@
 main{
     text-align: center;
     background-color: #faedcd;
-    padding:none;
+    margin:0;
     
+}
+
+body{
+    padding:0;
+    margin:0;
+    background-color:#faedcd;
 }
 h1{
     font-family: monospace;
@@ -27,10 +33,8 @@ section{
     justify-content: center;
     height:100vh;
     background-color: #ccd5ae;
-    padding-top:.5em;
-    padding-bottom:0;
-    padding-right:0;
-    padding-left:0;
+    margin:0;
+    padding:0;
 }
 button{
     width:250px;
