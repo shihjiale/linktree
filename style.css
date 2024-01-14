@@ -9,7 +9,7 @@ a{
     font-family: monospace;
     text-decoration: none;
     font-size:large;
-    color:beige;
+    color:#52796f;
 }
 
 button .link:hover{ 
@@ -29,7 +29,7 @@ section{
 button{
     width:250px;
     background:none;
-    color:#e9edc9;
+    color:#52796f;
     border:2px solid;
     padding:1em 2em;
     margin:.3em;
